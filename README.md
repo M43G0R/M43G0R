@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div id="header" align="center">
+    <img src="https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-elrFAUtV7ZOH7TSPhF" alt="gif" width="200">
+    <h1 align="center">Hi, I´m Juan Hernandez</h1>
+</div>
 <!--
 **M43G0R/M43G0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
