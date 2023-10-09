@@ -9,7 +9,6 @@
     <p><b>💻Code💻:</b> Python, JavaScript, TypeScript, C#, HTML, CSS</p>
     <P>🛠️<b>Tools⚔️:</b> Numpy, Pandas, NodeJs, NestJs, SaSS</P>
 </div>
-https://www.linkedin.com/in/juan-josé-hernández-acosta-64701a1b4/
 <div id="findme">
     <h2>🧐You can find me🌎:</h2>
     <ul>
