@@ -17,5 +17,5 @@
     </ul>
 </div>
 
-![M43G0R´s Stats](https://github-readme-stats.vercel.app/api?username=M43G0R&show_icons=true)
+![M43G0R´s Stats](https://github-readme-stats.vercel.app/api?username=M43G0R&show_icons=true&bg_color=00000000&text_color=4cd7ff)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M43G0R&label=Profile%20views&color=4cd7ff&style=flat" alt="M43G0R" /> </p>
