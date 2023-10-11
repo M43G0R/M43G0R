@@ -14,6 +14,7 @@
     <ul>
         <li><b><a href="https://www.instagram.com/ju4n_hd3z_/">Instagram</a></b></li>
         <li><b><a href="https://www.linkedin.com/in/juan-josé-hernández-acosta-64701a1b4/">Linkedin</a></b></li>
+        <li><b><a href="#">Email: ing.juanjhdeza@gmail.com</a></b></li>
     </ul>
 </div>
 
