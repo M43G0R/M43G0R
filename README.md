@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <img src="https://github.com/M43G0R/M43G0R/assets/146624249/53dcadb7-4740-47dc-b018-154c3f761977" alt="gif" width="200">
     <h1 align="center">⚡Hi, I´m Juan Hernandez⚡</h1>
-    <h3>Also I´m a Data Science Padawan Developer</h3>
 </div>
 
 <div id="technologies" class="technologies">
