@@ -26,12 +26,15 @@
     <br>
 </div>
 <div id="findme">
-    <h2>🧐You can find me🌎:</h2>
+    <h2>😏You can find me🌎:</h2>
     <a href="https://www.instagram.com/ju4n_hd3z_/"><img align="center" width="120" alt="insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/juan-josé-hernández-acosta-64701a1b4/"><img align="center" width="120" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:ing.juanjhdeza@gmail.com"><img align="center" width="120" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M43G0R&label=Profile%20views&color=8c00c2&style=flat" alt="M43G0R" /></p>
-![M43G0R´s Stats](https://github-readme-stats.vercel.app/api?username=M43G0R&show_icons=true&bg&theme=dracula)
-![M43G0R´s Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M43G0R&layout=compact&langs_count=16&theme=dracula)
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=M43G0R&show_icons=true&bg&theme=dracula" width="400" height="200" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M43G0R&layout=compact&langs_count=16&theme=dracula" height="200" width="400" align="center"/>
+</div>
