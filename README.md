@@ -63,8 +63,8 @@
     <img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <!--Discord-->
-<a  href="https://www.linkedin.com/in/juan-jos%C3%A9-hern%C3%A1ndez-acosta-64701a1b4/">
-    <img align="center" alt="Discord" title="juanhdez99" src="https://discord.com/"/>
+<a  href="https://discord.com/">
+    <img align="center" alt="Discord" title="juanhdez99" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <!--LeetCode-->
 <a  href="https://leetcode.com/u/M43G0R/">
