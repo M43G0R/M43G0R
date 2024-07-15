@@ -4,7 +4,9 @@
     <img src="https://media.giphy.com/media/llVO9lI6H4UWOAN1NY/giphy.gif"  width="170"/>🚀 Hello there, I´m Juan Hernandez⚡<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"  width="170"/>
 </h1>
 
-<img src="https://media.giphy.com/media/kyoMZN4P0UTChOBNqx/giphy.gif?cid=ecf05e479ln39lbivn0njx5ia68p2lu59s0iu8gbh2d3ka66&ep=v1_gifs_related&rid=giphy.gif&ct=s"  width="350"/>
+<img src="https://media.giphy.com/media/kyoMZN4P0UTChOBNqx/giphy.gif?cid=ecf05e479ln39lbivn0njx5ia68p2lu59s0iu8gbh2d3ka66&ep=v1_gifs_related&rid=giphy.gif&ct=s"  width="350" align="left"/>
+<img src="dragonred.gif"  width="350" align="right"/>
+<br><br><br><br><br>
 <h2 align="center">
     <img src="https://media.giphy.com/media/zeyLwW9gKDL4mWFcSZ/giphy.gif"  width="40"/>  Tech Stack  <img src="https://media.giphy.com/media/zeyLwW9gKDL4mWFcSZ/giphy.gif"  width="40"/>
 </h2>
