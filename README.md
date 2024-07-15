@@ -50,12 +50,30 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx6dHVwNGFld2l0aGNrZHBjOWJidzJpN2h0NjBza2prdXR1YnM5ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13KAXl4PucMDBK/giphy.gif"  width="40"/>  Contact me  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx6dHVwNGFld2l0aGNrZHBjOWJidzJpN2h0NjBza2prdXR1YnM5ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13KAXl4PucMDBK/giphy.gif"  width="40"/>
 </h2>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+<!--Gmail-->
+<a  href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img align="center" alt="Gmail" title="ing.juanjhdeza@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<!--Instagram-->
+<a  href="https://www.instagram.com/ju4n_hd3z_/">
+    <img align="center" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<!--LinkedIn-->
+<a  href="https://www.linkedin.com/in/juan-jos%C3%A9-hern%C3%A1ndez-acosta-64701a1b4/">
+    <img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<!--Discord-->
+<a  href="https://www.linkedin.com/in/juan-jos%C3%A9-hern%C3%A1ndez-acosta-64701a1b4/">
+    <img align="center" alt="Discord" title="juanhdez99" src="https://discord.com/"/>
+</a>
+<!--LeetCode-->
+<a  href="https://leetcode.com/u/M43G0R/">
+    <img align="center" alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+</a>
+<!--Codewars-->
+<a  href="https://www.codewars.com/users/jush2021">
+    <img align="center" alt="Codewars" title="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
+</a>
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl5aXkwYWVheng4bGhkdXV3bnlhNjRvMGdsMWdoYnpqZHltd21lcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qu7VSwlMiXe2WzWsJ5/giphy.gif" width="200"/></p>
 
